@@ -1,0 +1,11 @@
+gradio>=5.0
+streamlit>=1.35
+pypdf>=4.2
+langchain>=0.2
+langchain-community>=0.2
+langchain-core>=0.2
+langchain-text-splitters>=0.2
+langchain-huggingface>=0.0.3
+sentence-transformers>=2.7
+faiss-cpu>=1.8
+langchain-google-genai>=1.0
